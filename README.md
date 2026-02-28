@@ -1,5 +1,8 @@
 # 🎵 Real-Time Audio Frequency Band Detection using TMS320C6713 DSP
 ---
+256-point Radix-2 FFT implementation with 31.25 Hz frequency resolution on a floating-point DSP processor.
+---
+
 ![Block Diagram](image.png)
 
 ## 🛠 Technologies Used
