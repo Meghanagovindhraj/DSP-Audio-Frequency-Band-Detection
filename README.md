@@ -1,5 +1,6 @@
 # 🎵 Real-Time Audio Frequency Band Detection using TMS320C6713 DSP
 ---
+![Block Diagram](image.png)
 
 ## 🛠 Technologies Used
 
